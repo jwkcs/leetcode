@@ -34,7 +34,7 @@
 18. 18-4sum.cpp
 
 19. 19-remove-nth-node-from-end-of-list.cpp
-> 19-remove-nth-node-from-end-of-list.py
+    * 19-remove-nth-node-from-end-of-list.py
 
 20. 20-valid-parentheses.cpp
 
@@ -65,8 +65,8 @@
 53. 53-maximum-subarray.py
 
 54. 54-spiral-matrix.cpp
-> 54-spiral-matrix-2.cpp
-> 54-spiral-matrix.py
+    * 54-spiral-matrix-2.cpp
+    * 54-spiral-matrix.py
 
 55. 55-jump-game.cpp
 
@@ -87,7 +87,7 @@
 100. 100-same-tree.cpp
 
 101. 101-symmetric-tree.cpp
-> 101-symmetric-tree.py
+    * 101-symmetric-tree.py
 
 104. 104-maximum-depth-of-binary-tree.cpp
 
@@ -104,7 +104,7 @@
 167. 167-two-sum-ii-input-array-is-sorted.cpp
 
 169. 169-majority-element.cpp
-> 169-majority-element.py
+    * 169-majority-element.py
 
 171. 171-excel-sheet-column-number.cpp
 
