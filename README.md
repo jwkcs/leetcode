@@ -1,13 +1,13 @@
 # LeetCode
 ### Problems
 ---
-1. [1-two-sum.cpp](https://github.com/kimjiwon-me/leetcode/blob/main/cpp/1-two-sum.cpp)
+1. [1-two-sum.cpp](https://github.com/jwkcs/leetcode/blob/main/cpp/1-two-sum.cpp)
 
-2. [2-add-two-numbers.cpp](https://github.com/kimjiwon-me/leetcode/blob/main/cpp/2-add-two-numbers.cpp)
+2. [2-add-two-numbers.cpp](https://github.com/jwkcs/leetcode/blob/main/cpp/2-add-two-numbers.cpp)
 
 3. 3-longest-substring.py
 
-5. [5-longest-palindromic-substring.cpp](https://github.com/kimjiwon-me/leetcode/blob/main/cpp/5-longest-palindromic-substring.cpp)
+5. [5-longest-palindromic-substring.cpp](https://github.com/jwkcs/leetcode/blob/main/cpp/5-longest-palindromic-substring.cpp)
 
 6. 6-zigzag-conversion.cpp
 
